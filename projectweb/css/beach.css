@@ -1,0 +1,120 @@
+div{
+    line-height: 100px;
+    padding:200px;
+    
+     background-image:url("../img/beach1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #926239;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#para1{
+    text-align: center;
+    color: #926239;
+    font-size:20px ;
+    line-height: 10px;
+
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+button{
+    
+
+font-size: 18px;
+    text-decoration: none;
+    color:#926239 ;
+    
+    
+    border: #926239 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left:350px;
+
+}
+#para2{
+   
+    background-color:#926239;
+    font:17px arial;
+    word-spacing: 2px; 
+    line-height: 30px;
+    text-align: center;
+    font:arial;
+    font-size: 17px;
+    
+    color:white; 
+    
+   
+
+
+}
+button:hover{
+    background-color:#926239;
+    color: aliceblue;
+    
+}
+#para3{
+    color:#926239;
+    font:17px arial;
+    word-spacing: 1px; 
+    line-height: 30px;
+    text-align: center;
+    font:arial;
+    
+    padding:20px;
+}
+#para4,#para5,#para6{
+    display:inline-block;
+    width:350px;
+    
+    text-align: center;
+    word-spacing: 20px;
+    line-height: 1.6;
+   
+    padding:20px 0px;
+    
+}
+#para4{
+    background-color:#926239 ;
+    
+    color:#ffff;
+    word-spacing: 5px;  
+     line-height: 10px; 
+     text-align: left;
+      padding:20px; 
+     font:17px arial;
+     font-size: 18px; 
+    
+}
+#para5{
+     color: #926239;
+    word-spacing: 3px; 
+     line-height: 30px;  
+    text-align: left;
+       padding:20px;  
+    font: 17px arial;
+    font-size: 18px;   
+    align-items: center;
+     
+}
+#para6{
+    background-color: #926239;
+    
+     
+    color:white;
+     word-spacing: 3px; 
+    line-height: 30px; 
+     text-align: left;
+ padding:20px 40px 20px 20px ; 
+font:17px arial;
+     font-size: 18px; 
+     margin: 0px;
+     align-items: center;
+    
+     
+}
