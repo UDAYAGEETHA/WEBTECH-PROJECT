@@ -1,0 +1,30 @@
+.timer{
+    width:80px;
+    height:30px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 12px;
+    color: white;
+    cursor:pointer;
+    background-color: black;
+    font-family: consolas,monospace;
+}
+#timedisplay{
+    font-size: 75px;
+    color:black;
+    font-family: consolas,monospace;
+    margin-top: 50px;
+
+}
+#timecontainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-image: url("../img/stopwatch\ pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    
+}

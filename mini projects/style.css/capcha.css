@@ -1,0 +1,25 @@
+body{
+    background-image: url("../img/captcha\ pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height:100%;
+}
+#btn{
+    background-color:  rgb(238, 236, 130);
+    color: red;
+    height: 40px;
+    margin-top: 220px;
+    
+}
+#text{
+    border:3px solid rgb(175, 30, 219);
+    margin-top: 40px;
+    margin-left: 520px ;
+    width:180px;
+    line-height: 30px;
+    color:rgb(37, 205, 48);
+    background-color:rgb(200, 20, 80);
+    height: 30px;
+    text-align: center;
+}
